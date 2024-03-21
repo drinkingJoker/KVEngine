@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/leaf/code/cpp/KVEngine/build",
+  "command": "/usr/bin/clang++   -g -Wall -Wpedantic -Wextra -std=gnu++20 -o CMakeFiles/KVEngine.dir/main.cpp.o -c /home/leaf/code/cpp/KVEngine/main.cpp",
+  "file": "/home/leaf/code/cpp/KVEngine/main.cpp"
+}
+]
